@@ -1,0 +1,20 @@
+{
+  "name": "teste-tecnico-boticario",
+  "version": "1.0.0",
+  "description": "Teste técnico realizado para o processo seletivo do Grupo Boticário - BotiGitHubTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliamelgaco/teste-tecnico-boticario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliamelgaco/teste-tecnico-boticario/issues"
+  },
+  "homepage": "https://github.com/nataliamelgaco/teste-tecnico-boticario#readme"
+}
