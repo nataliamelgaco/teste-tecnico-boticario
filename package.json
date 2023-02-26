@@ -11,10 +11,18 @@
     "url": "git+https://github.com/nataliamelgaco/teste-tecnico-boticario.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Natália Melgaço",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nataliamelgaco/teste-tecnico-boticario/issues"
   },
-  "homepage": "https://github.com/nataliamelgaco/teste-tecnico-boticario#readme"
+  "homepage": "https://github.com/nataliamelgaco/teste-tecnico-boticario#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "git-commit-msg-linter": "^4.7.4",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "eslint-config-standard-with-typescript": "^34.0.0"
+  }
 }
